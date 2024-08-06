@@ -10,12 +10,12 @@ function App() {
   return (
     <div className="App">
       <h1>React Hooks Demonstration</h1>
-      {/* <UseStateHook />
-      <UseEffectHook /> */}
+      {/* <UseStateHook /> */}
+      <UseEffectHook />
       {/* <UseMemoHook /> */}
       {/* <UseCallbackHook /> */}
       {/* <UseRefHook /> */}
-      <UseCustomHook />
+      {/* <UseCustomHook /> */}
     </div>
   );
 }
